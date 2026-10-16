@@ -1,0 +1,10 @@
+{
+  "network": "arc-testnet",
+  "chainId": 5042002,
+  "vaultAddress": null,
+  "ownerAddress": null,
+  "agentAddress": null,
+  "usdcAddress": "0x3600000000000000000000000000000000000000",
+  "status": "awaiting_deployment",
+  "note": "Populated automatically when contracts/scripts/deploy.sh is executed by the human deployer"
+}
