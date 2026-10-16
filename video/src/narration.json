@@ -1,0 +1,12 @@
+[
+  {"id": "intro", "text": "This is Lumbung. The village barn, run by an A I agent, on Arc."},
+  {"id": "problem", "text": "OWatch pays underpaid Indonesians to watch videos. Every point we hand out is a promise to pay. Lumbung is the A I treasurer that keeps those promises."},
+  {"id": "overview", "text": "Lumbung watches the treasury against the liability of all outstanding points. Reserve ratio one point eight, runway twelve days. Budgets per category are enforced by a contract the agent can't override."},
+  {"id": "redeem", "text": "A viewer redeems. The agent reads live state, the hard rules allow pay, the agent explains why, and the Circle agent wallet pays through the vault. Under a second on Arc, about one cent."},
+  {"id": "verify", "text": "Every decision is logged with its inputs and reasoning, and its hash is written on chain with the payment. Anyone can verify the reasoning wasn't edited afterwards."},
+  {"id": "velocity", "text": "When something looks off, like three redeems in an hour, the agent doesn't blindly pay or reject. It holds or escalates, and says why."},
+  {"id": "escalate", "text": "Above the cap, the agent can only request approval on chain. I get a Telegram ping, approve from my own wallet, and the vault pays. The human only sees what needs a human."},
+  {"id": "reserve", "text": "If the barn runs low, the agent adapts. Small payouts continue, larger ones wait, and it tells me how much to top up."},
+  {"id": "metrics", "text": "Every payout, decision and escalation is public, live on the metrics page."},
+  {"id": "outro", "text": "Lumbung. The village barn, run by an agent."}
+]
