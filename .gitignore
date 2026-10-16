@@ -1,0 +1,22 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.pem
+*recovery*.json
+*-recovery-file.json
+
+# node / next
+node_modules/
+.next/
+out/
+.vercel/
+*.log
+
+# foundry
+contracts/out/
+contracts/cache/
+contracts/broadcast/*/dry-run/
+
+# os
+.DS_Store
